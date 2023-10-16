@@ -5,7 +5,7 @@ namespace EvenOddProgram
     {
         static void Main()
         {
-            //print all primes upto n
+            //print all primes upto n numbers
             /*int n;
             n =Convert.ToInt32(Console.ReadLine());
             for(int number=2; number<=n; number++) {
